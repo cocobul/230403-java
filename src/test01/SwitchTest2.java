@@ -25,7 +25,7 @@ public class SwitchTest2 {
 				System.out.println("메뉴에 없습니다!");
 		}
 		if(price != 0)
-			System.out.print(order + "는" + price + "원입니다");
+			System.out.print(order + "는" + price + "원 입니다");
 		
 		scanner.close();
 		
